@@ -8,3 +8,5 @@
   <p>  4. Run <b>php bin/magento setup:upgrade</b> </p>
   <p>  5. Run <b>php bin/magento setup:static-content:deploy</b>(Optional) </p>
 </div>
+
+Follow this link for the complete guide to create this module <a href="https://beginnerszone.com/magento-2-custom-module-tutorial/">Magento 2 Custom Module</a>
